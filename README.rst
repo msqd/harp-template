@@ -1,4 +1,5 @@
-# HARP Cookiecutter Template
+HARP Cookiecutter Template
+==========================
 
 .. code:: shell
 
